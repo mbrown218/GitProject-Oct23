@@ -1,0 +1,3 @@
+Before initializing Git
+-----------------------
+After adding files to Git
